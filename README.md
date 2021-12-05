@@ -1,1 +1,1 @@
-# Omdena_MLOps-for-AI-Engineers-and-Data-Scientists
+# Omdena MLOps for AI Engineers and Data Scientists
